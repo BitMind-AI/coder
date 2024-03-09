@@ -10,7 +10,7 @@ This repository contains all the necessary configurations, Docker templates, and
 
 ### Templates Subfolders
 
-- **/docker-bittensor-devcontainer**: Template for Bittensor development environment.
+- **/docker-bittensor**: Template for Bittensor development environment.
   
 - **/docker-deeplearning**: Template for a general deep learning environment.
 
